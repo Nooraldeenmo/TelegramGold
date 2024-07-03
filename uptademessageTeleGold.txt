@@ -1,0 +1,33 @@
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v3.50",
+    "org.telegram.nmgold": "https://www.nmwhats.app/2022/01/telegram-plus-gold.html",
+    "update_message": "
+<p>Update V3.50 تحديث</p>
+<li>تم تحديث كود المصدر إلى الإصدار 10.13.1.2.</li>
+<li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
+<li>امكانية حفظ الستوري في حالة المنع</li>
+<li>امكانية نسخ رابط الستوري في حالة المنع</li>
+<li>تأثيرات الرسائل.</li>
+<li>التسميات أعلى الوسائط.</li>
+<li>إجراءات سريعة لأرقام الهواتف.</li>
+<li>بحث الهاشتاج.</li>
+<li>اقتباسات قابلة للطي.</li>
+
+<li>Base Update: 10.13.1.2</li>
+<li>Screen capture enabled for stories if it is stopped</li>
+<li>Story saving enabled if it is stopped</li>
+<li>Copy story link enabled if it is stopped</li>
+<li>Message Effects</li>
+<li>Captions Above Media</li>
+<li>Quick Actions for Phone Numbers</li>
+<li>Hashtag Search</li>
+<li>Collapsible Quotes</li>
+<li>Added My Profile</li>
+<li>Added Birthdays</li>
+<li>Other fixes</li>
+"
+    }
+}
