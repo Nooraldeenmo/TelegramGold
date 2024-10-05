@@ -1,0 +1,3 @@
+versionName=2.0
+webpageUrl=https://t.me/DevNooraldeen
+dialogTitle=Telegram Gold v2.0
